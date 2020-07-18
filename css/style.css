@@ -405,7 +405,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
     .column.col4 {border-top: 1px solid #dbdbdb;}
 
     #cont_right .column {width: 50%;}
-    #cont_right .column.col9 {border-right: 0;}
+    #cont_right .column.col8 {border-right: 0;}
     #cont_right .column.col9 {display: none;}
 
     .slider figcaption {padding: 10px;}
@@ -425,6 +425,9 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
 @media (max-width: 320px){
     .nav > div li {width: 100%;}
     .nav > div:last-child li {width: 100%;}
+
+    #cont_right .column{width: 100%;}
+    #cont_right .column.col7 {border-right: 0;}
 
     .square a {width: 100%; margin-right: 0;margin-left: 0;}
 }
