@@ -427,7 +427,7 @@ body {background: url(../img/header_bg.jpg) repeat-x center top;}
     .nav > div:last-child li {width: 100%;}
 
     #cont_right .column{width: 100%;}
-    #cont_right .column.col7 {border-right: 0;}
+    #cont_right .column.col7 {border-right: 0;border-bottom: 1px solid #dbdbdb;}
 
     .square a {width: 100%; margin-right: 0;margin-left: 0;}
 }
